@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package course;
+package course.week02.homework03;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
