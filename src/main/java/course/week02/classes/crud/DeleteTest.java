@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import static com.mongodb.client.model.Filters.eq;
 import static com.mongodb.client.model.Filters.gt;
 import static com.mongodb.client.model.Filters.gte;
-import static com.mongodb.m101j.util.Helpers.printJson;
+import static course.week02.classes.util.Helpers.printJson;
 
 public class DeleteTest {
     public static void main(String[] args) {
